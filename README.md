@@ -1,7 +1,7 @@
 # BCT_AB_Assignment
 
 This repository is dedicated to the BCT AB assignment submissions. Below you'll find instructions on how to fork this repository, make changes, and push your contributions.
-```MAKE SURE THAT YOUR FOLDER HAS YOUR OWN COLLEGE NAME IN IT (NOTE: YOUR CODE MUST CONTAIN IN A FOLDER OF YOUR OWN NAME ELSE WON'T BE ACCEPTED)```
+```MAKE SURE THAT YOUR FOLDER HAS YOUR OWN COLLEGE NAME IN IT (NOTE: YOUR CODE MUST CONTAIN IN A FOLDER OF YOUR OWN NAME OR Roll no OR BOTH ELSE WON'T BE ACCEPTED)```
 
 ## Table of Contents
 - [Forking the Repository](#forking-the-repository)
